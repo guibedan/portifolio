@@ -12,7 +12,7 @@ const Home = () => {
 
                 <div className="home__img"></div>
 
-                <Data></Data>
+                <Data />
             </div>
 
             {/* <ScrollDown /> */}
