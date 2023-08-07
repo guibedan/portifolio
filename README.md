@@ -1,27 +1,13 @@
-# React + TypeScript + Vite
+# Portifolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio project built using React, TypeScript, and SCSS. The purpose of this project is to create a website that showcases my work, skills, and experiences in an elegant and professional manner.
 
-Currently, two official plugins are available:
+### Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Technologies: The project utilizes the React library to create an interactive and dynamic user experience. TypeScript is used to add static typing to JavaScript, enhancing code robustness. The SCSS preprocessor is employed to create custom and reusable styles.
 
-## Expanding the ESLint configuration
+- Responsive Layout: The website is developed with a responsive design, ensuring it is visually pleasing and functional across various devices and screen sizes.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Custom Sections: The project features multiple custom sections such as About Me, Portfolio, Skills, and Contact. Each section is designed to display information in an organized and appealing manner.
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Animations and Transitions: Subtle animations and smooth transitions are implemented to create an engaging user experience while navigating the site.
