@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import './Styles.scss'
 
 import { projectsData, projectsNav } from './Data';

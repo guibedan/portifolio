@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './Styles.scss'
 
 
@@ -59,7 +59,7 @@ const Header= () => {
 
                 </ul>
 
-                <i class="uil uil-times nav__close" onClick={() => setToggle(!toggle)}></i>
+                <i className="uil uil-times nav__close" onClick={() => setToggle(!toggle)}></i>
             </div>
 
             <div className="nav__toggle" onClick={() => setToggle(!toggle)}>

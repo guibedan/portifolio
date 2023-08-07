@@ -1,9 +1,7 @@
-import React from 'react';
 import './Styles.scss'
 import AboutImg from '../../assets/profile.png'
 import CV from '../../assets/Guilherme Izaias Bedan.pdf'
 import Info from './Info';
-import Files from '../../assets/files.svg'
 
 const About = () => {
   return (

@@ -1,4 +1,3 @@
-import React from 'react';
 import './Styles.scss'
 
 
@@ -49,7 +48,7 @@ const Qualifications = () => {
                   <h3 className="qualification__title">Google Cloud Foundations</h3>
                   <span className="qualification__subtitle">SENAI - Americana</span>
                   <div className="qualification__calender">
-                    <i class="uil uil-calendar-alt"></i> 2022
+                    <i className="uil uil-calendar-alt"></i> 2022
                   </div>
                 </div>
 

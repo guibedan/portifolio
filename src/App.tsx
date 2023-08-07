@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.scss'
 import Header from './components/header/Header'
 import Home from './components/home/Home'
