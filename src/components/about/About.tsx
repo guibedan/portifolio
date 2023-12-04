@@ -13,7 +13,7 @@ const About = () => {
             <img src={AboutImg} alt="AboutImg" className="about__img" />
 
             <div className="about__data">
-                {/* <Info /> */}
+                <Info />
 
                 <p className="about__description">
                 Hello! I'm Guilherme Bedan, a technology enthusiast and software developer. With experience in both frontend and backend development, I'm dedicated to creating innovative and intuitive solutions for the web and mobile devices.
