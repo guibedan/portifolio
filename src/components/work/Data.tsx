@@ -2,7 +2,6 @@ import Work1 from '../../assets/work1.png' // X
 import Work2 from '../../assets/work2.png' // X
 import Work3 from '../../assets/work3.png' // X
 import Work4 from '../../assets/work4.png' // X
-import Work5 from '../../assets/work5.png' // x
 import Work6 from '../../assets/work6.png'
 import Work7 from '../../assets/work7.png'
 import Work8 from '../../assets/work8.png'
