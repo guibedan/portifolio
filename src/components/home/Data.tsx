@@ -11,7 +11,7 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">FullStack Developer</h3>
         <p className="home__description">I'm a Full Stack jr developer but I work more in the Frontend</p>
-        <a href="#contact" className="button button--flex">
+        {/* <a href="#contact" className="button button--flex">
             Say Hello
             <svg
                   className="button__icon"
@@ -30,7 +30,7 @@ const Data = () => {
                     fill="var(--container-color)"
                   ></path>
             </svg>
-        </a>
+        </a> */}
     </div>
   );
 }
