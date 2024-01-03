@@ -5,6 +5,7 @@ import Work4 from '../../assets/work4.png' // X
 import Work6 from '../../assets/work6.png'
 import Work7 from '../../assets/work7.png'
 import Work8 from '../../assets/work8.png'
+import Work9 from '../../assets/work9.png'
 
 export const projectsData = [
     {
@@ -59,11 +60,18 @@ export const projectsData = [
     },
     {
         id: 8,
+        image: Work9,
+        title: 'Brasileirão Analysis',
+        category: 'backend',
+        link: 'https://github.com/guibedan/brasileiraoAnalysis'
+    },
+    {
+        id: 9,
         image: Work6,
         title: 'REST Api Spring',
         category: 'backend',
         link: 'https://github.com/guibedan/RestApi-Crud-SpringBoot'
-    }
+    },
 ];
 
 export const projectsNav = [
